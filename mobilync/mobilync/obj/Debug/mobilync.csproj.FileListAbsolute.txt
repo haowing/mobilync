@@ -1,0 +1,5 @@
+C:\projects\mobilync\mobilync\mobilync\mobilync\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\mobilync\mobilync\mobilync\mobilync\bin\Debug\mobilync.pdb
+C:\projects\mobilync\mobilync\mobilync\mobilync\obj\Debug\mobilync.pdb
+C:\projects\mobilync\mobilync\mobilync\mobilync\bin\Debug\mobilync.exe
+C:\projects\mobilync\mobilync\mobilync\mobilync\obj\Debug\mobilync.exe
